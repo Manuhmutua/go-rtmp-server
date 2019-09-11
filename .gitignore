@@ -1,0 +1,4 @@
+go.sum
+go-rtmp-server.exe
+go-rtmp-server
+vendor/
