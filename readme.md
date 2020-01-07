@@ -2,6 +2,16 @@
 
 This is a very tiny demo with rtmp protocol server/client side implement.
 
+
+## Join us
+
+Matrix chat 
+
+![https://matrix.to/#/+yskm:matrix.org](https://yskm.dev/matrix.png)
+
+[https://matrix.to/#/+yskm:matrix.org](https://matrix.to/#/+yskm:matrix.org)
+
+
 ## Requirement
 
 You need golang to build all tools. 
